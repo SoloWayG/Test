@@ -1,0 +1,11 @@
+95 100 off
+106 98 off
+100 82 off
+90 90 off
+80 85 off
+80 98 off
+68 90 off
+70 102 off
+80 105 off
+90 94 off
+95 100 off
